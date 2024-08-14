@@ -1,2 +1,5 @@
 # menu2
-Mi primer repositorio central (Remoto)
+Matricula:202222543
+Nombre:Ignacio Flores Pacheco
+Fecha: 2024-08-14
+Descripcion: Mi primer repositorio central (Remoto)
